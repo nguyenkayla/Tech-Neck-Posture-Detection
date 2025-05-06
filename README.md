@@ -1,4 +1,4 @@
-# CS328 Project:Tech-Neck-Posture-Detection
+# CS328 Project: Tech Neck Posture Detection
 Names: Meghan Duddu, Maria Mechery, Kayla Nguyen
 
 What is the project about?
