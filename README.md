@@ -11,13 +11,13 @@ This project is exciting for us because we wanted to analyze a device that we al
 Who are the team members, and what are their roles?
 -
 Meghan Duddu:
-Record own data using Sensor Logger for each of predefined postures
+Record own data using Sensor Logger for each of predefined postures\
 Project Manager: Divides up work into achievable tasks\
 Maria Mechery:
-Record own data using Sensor Logger for each of predefined postures
+Record own data using Sensor Logger for each of predefined postures\
 Time Management: Makes sure parts of the project are getting completed in an efficient, timely manner\
 Kayla Nguyen:
-Record own data using Sensor Logger for each of predefined postures
+Record own data using Sensor Logger for each of predefined postures\
 Quality Overseer: Ensures that the work being produced is up to par for the project
 
 What are the milestones and deliverables?
